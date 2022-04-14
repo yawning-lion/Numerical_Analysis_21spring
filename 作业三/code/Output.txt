@@ -1,0 +1,14 @@
+The  element of the matrixL are as follows
+1 0 0 0 
+1.4 1 0 0 
+1.2 -2 1 0 
+1 0 1.5 1 
+
+The diagonal element of the matrixD are as follows
+5 0.2 2 0.5 
+
+The element of the solution are as follows
+1 4 
+1 4 
+1 4 
+1 4 
